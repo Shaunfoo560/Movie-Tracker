@@ -1,0 +1,23 @@
+{
+  "movies": [
+    {
+      "date": "1st January 2020",
+      "name": "Batman",
+      "rating": 3,
+      "description": "About a bat man"
+    },
+    {
+      "date": "2nd March 2021",
+      "name": "Superman",
+      "rating": 4,
+      "description": "About a super man"
+    },
+    {
+      "date": "3rd May 2022",
+      "name": "Ironman",
+      "rating": 5,
+      "description": "About a iron man"
+    }
+  ],
+  "username": "Shaun"
+}

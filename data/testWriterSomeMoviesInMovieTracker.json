@@ -1,0 +1,23 @@
+{
+  "movies": [
+    {
+      "date": "4th April 2013",
+      "name": "Ironman",
+      "rating": 1,
+      "description": "Man made of iron"
+    },
+    {
+      "date": "5th May 2014",
+      "name": "The Flash",
+      "rating": 2,
+      "description": "Man who is fast"
+    },
+    {
+      "date": "6th June 2015",
+      "name": "Daredevil",
+      "rating": 3,
+      "description": "Blind man"
+    }
+  ],
+  "username": "Shaun"
+}

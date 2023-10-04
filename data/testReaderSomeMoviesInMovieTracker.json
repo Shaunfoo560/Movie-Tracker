@@ -1,0 +1,23 @@
+{
+  "movies": [
+    {
+      "date": "1st January 2010",
+      "name": "Spiderman",
+      "rating": 3,
+      "description": "Man gets bitten by a spider"
+    },
+    {
+      "date": "2nd February 2011",
+      "name": "Batman",
+      "rating": 4,
+      "description": "Man is a bat"
+    },
+    {
+      "date": "3rd March 2012",
+      "name": "Superman",
+      "rating": 5,
+      "description": "Man who is super"
+    }
+  ],
+  "username": "Shaun"
+}
