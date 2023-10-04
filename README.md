@@ -25,19 +25,19 @@ I am planning for the app to display the following information:
 - As a user, I want to be able to save my movie tracker list to a file
 - As a user, I want to be able to load my movie tracker list from file
 
-# Instructions for Grader
+# Usage instructions
 
 - To start the GUI, navigate to the UI package, then run the MovieTrackerGUI file
-- You can generate the first required event (Adding a movie to the movie list) by filling in the movie name, rating,
+- You can generate the first event (Adding a movie to the movie list) by filling in the movie name, rating,
 date watched, and description, then clicking on the 'add movie' button. 
-- You can generate the second required event by clicking on each movie in the list on the left, after which you will
+- You can generate the second event by clicking on each movie in the list on the left, after which you will
 see that the parameter boxes on the right-hand side have been populated with the respective data. You can then change
 the fields as you wish, then you can press 'update movie' to add the movie back to the list with the updated parameters.
-- You can locate my visual component by running the GUI, and then clicking any of the 4 buttons. If you click one of
+- You can locate visual components by running the GUI, and then clicking any of the 4 buttons. If you click one of
 the buttons on the left (save list or load list), you will be greeted with a popup message with a star. If you click
 one of the buttons on the right (add movie or update movie), you will be greeted with a popup message of a tick.
-- You can save the state of my application by clicking on the 'save list' button in the bottom left of the GUI.
-- You can reload the state of my application by clicking on the 'load list' button in the bottom left of the GUI.
+- You can save the state of the application by clicking on the 'save list' button in the bottom left of the GUI.
+- You can reload the state of the application by clicking on the 'load list' button in the bottom left of the GUI.
 
 # Phase 4: Task 2
 When adding a movie to the movie tracker:
