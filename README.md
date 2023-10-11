@@ -39,7 +39,7 @@ one of the buttons on the right (add movie or update movie), you will be greeted
 - You can save the state of the application by clicking on the 'save list' button in the bottom left of the GUI.
 - You can reload the state of the application by clicking on the 'load list' button in the bottom left of the GUI.
 
-# Phase 4: Task 2
+# Console Log Example
 When adding a movie to the movie tracker:
 - Fri Nov 25 10:54:03 PST 2022
 - Added a movie to the movie tracker.
@@ -54,7 +54,7 @@ When updating any of a movie's attributes in the movie tracker program:
 - Fri Nov 25 10:54:36 PST 2022
 - Description of movie set to: About a blue fish.
 
-# Phase 4: Task 3
+# UML Design Diagram
 ![](UML_Design_Diagram.png)
 Possible ways to improve the design:
 - I could combine the MovieTrackerConsole and the MovieTrackerGUI in order to improve cohesion and reduce coupling.
