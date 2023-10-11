@@ -56,6 +56,7 @@ When updating any of a movie's attributes in the movie tracker program:
 
 # UML Design Diagram
 ![](UML_Design_Diagram.png)
+
 Possible ways to improve the design:
 - I could combine the MovieTrackerConsole and the MovieTrackerGUI in order to improve cohesion and reduce coupling.
 - I could also create, throw, and catch more exceptions to make my methods more robust.
